@@ -18,7 +18,6 @@ class MainGame:
         myPlayers.append(playerStarter) # Adding the first player movement.
 
         def getScreenClick(x, y): # Using that to read where is the player clicking.
-            print(MainMatrix)
             clickChecker = False
             buttonClick = None
             """Saving and Reading data methods are a little complicated, so they are explained where we create them.
