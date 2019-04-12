@@ -3,7 +3,7 @@ I decided to create a simply game, but without using Python Game libraries... (N
 
 To run the game, you're going to need to install Python 3.7 
 
-[https://www.python.org/downloads/]
+https://www.python.org/downloads/
 
 
 Then, just double click on Main.py file.
